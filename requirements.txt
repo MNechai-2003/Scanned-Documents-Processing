@@ -1,0 +1,7 @@
+kaggle 
+ipykernel
+dotenv
+pandas
+numpy
+opencv-python
+langdetect
